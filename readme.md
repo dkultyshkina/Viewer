@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus) 
 ![C](https://img.shields.io/badge/C-Solutions-blue.svg?style=flat&logo=c)
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" width="20" height="20"/>&nbsp;
+![Qt](https://img.shields.io/badge/Qt-blue.svg?style=flat&logo=qt)
 
 **3D VIewer** - это приложение, которое поддерживает различные функции: просмотр файлов формата .obj и другие возможности для работы с выбранной пользователем 3D моделью
 
