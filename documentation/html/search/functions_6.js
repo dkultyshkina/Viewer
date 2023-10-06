@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['readcountelementfromfile_51',['ReadCountElementFromFile',['../3_d_viewer_8c.html#ae326fc5c0af32a0d798b52f5a2071da0',1,'ReadCountElementFromFile(FILE *fp, data_t *data):&#160;3DViewer.c'],['../3_d_viewer_8h.html#ae326fc5c0af32a0d798b52f5a2071da0',1,'ReadCountElementFromFile(FILE *fp, data_t *data):&#160;3DViewer.c']]],
+  ['removedatapolygon_52',['RemoveDataPolygon',['../3_d_viewer_8c.html#a1818f8de25720fffd668a45b20c0e0cd',1,'RemoveDataPolygon(data_t *result):&#160;3DViewer.c'],['../3_d_viewer_8h.html#a1818f8de25720fffd668a45b20c0e0cd',1,'RemoveDataPolygon(data_t *result):&#160;3DViewer.c']]],
+  ['removematrix_53',['RemoveMatrix',['../3_d_viewer_8c.html#abb85d00f21870badfcbc14d4e093e449',1,'RemoveMatrix(matrix_t *A):&#160;3DViewer.c'],['../3_d_viewer_8h.html#abb85d00f21870badfcbc14d4e093e449',1,'RemoveMatrix(matrix_t *A):&#160;3DViewer.c']]],
+  ['removepolygon_54',['RemovePolygon',['../3_d_viewer_8c.html#ad32dbe4d8426e57613d5fa55a98739aa',1,'RemovePolygon(polygon_t *A):&#160;3DViewer.c'],['../3_d_viewer_8h.html#ad32dbe4d8426e57613d5fa55a98739aa',1,'RemovePolygon(polygon_t *A):&#160;3DViewer.c']]],
+  ['rotationmatrixox_55',['RotationMatrixOX',['../3_d_viewer_8c.html#ab47f8f3506d1b78f2ace9d77d611e454',1,'RotationMatrixOX(matrix_t *A, double angle):&#160;3DViewer.c'],['../3_d_viewer_8h.html#ab47f8f3506d1b78f2ace9d77d611e454',1,'RotationMatrixOX(matrix_t *A, double angle):&#160;3DViewer.c']]],
+  ['rotationmatrixoy_56',['RotationMatrixOY',['../3_d_viewer_8c.html#ad2d0eb4a54fb284e26e221be05262bf8',1,'RotationMatrixOY(matrix_t *A, double angle):&#160;3DViewer.c'],['../3_d_viewer_8h.html#ad2d0eb4a54fb284e26e221be05262bf8',1,'RotationMatrixOY(matrix_t *A, double angle):&#160;3DViewer.c']]],
+  ['rotationmatrixoz_57',['RotationMatrixOZ',['../3_d_viewer_8c.html#a31f81093b00c5be04c20c281f2bacca3',1,'RotationMatrixOZ(matrix_t *A, double angle):&#160;3DViewer.c'],['../3_d_viewer_8h.html#a31f81093b00c5be04c20c281f2bacca3',1,'RotationMatrixOZ(matrix_t *A, double angle):&#160;3DViewer.c']]]
+];
