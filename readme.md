@@ -257,6 +257,8 @@
 
 <p align="center"> Изображение экрана графического интерфеса 3DViewer </p>
 
+
+Created by seastarw and superboy
  
 
 
